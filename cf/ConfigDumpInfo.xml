@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфігурація" id="b20ee033-fab7-4fcf-91a3-682a4367453d" configVersion="49e97a9917006f499e108f55144e3df100000000"/>
+		<Metadata name="DataProcessor.Test_Git" id="392eb0c4-ac28-43f8-969f-7b78c01bb395" configVersion="8b3b1950bba4c147b7b9f31e32da668e00000000"/>
+		<Metadata name="DataProcessor.Test_Git.Form.Форма" id="6e23112f-8a31-401a-9482-7cba562507a3" configVersion="214612114f7d2a4e983d6e939983a96000000000"/>
+		<Metadata name="DataProcessor.Test_Git.Form.Форма.Form" id="6e23112f-8a31-401a-9482-7cba562507a3.0" configVersion="4f270c7700cedc478ae42452a9b30f0b00000000"/>
+		<Metadata name="Language.Українська" id="ed4aefe2-bc7f-4da5-b9d8-5780fd19cc50" configVersion="0ad9504e6ad7dd438c8965606ad324a500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
